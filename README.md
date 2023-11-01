@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="verbiage/public/logo.png" alt="Verbiage Logo" width="200" height="200" />
+  <img src="public/logo.png" alt="Verbiage Logo" width="200" height="200" />
 </p>
 
 # Verbiage
