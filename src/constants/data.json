@@ -1,0 +1,154 @@
+[
+  {
+    "keyword": "thanks",
+    "translations": {
+      "1": "Thanks for your help.",
+      "2": "I'd like to express my gratitude for your assistance and support in this matter.",
+      "3": "I sincerely appreciate your valuable and unwavering support."
+    }
+  },
+  {
+    "keyword": "good job",
+    "translations": {
+      "1": "Great job!",
+      "2": "Your performance has been outstanding, and your contributions have significantly impacted our success.",
+      "3": "Your exceptional work has made a remarkable difference, and your dedication to excellence is commendable."
+    }
+  },
+  {
+    "keyword": "awesome",
+    "translations": {
+      "1": "You're doing an awesome job!",
+      "2": "Your work is truly impressive, and your commitment to excellence is admirable.",
+      "3": "Your achievements are remarkable, and your unwavering dedication to excellence is truly inspiring."
+    }
+  },
+  {
+    "keyword": "not my problem",
+    "translations": {
+      "1": "I recommend seeking assistance from the relevant team or individual.",
+      "2": "This falls outside my responsibility; you may want to consult the appropriate team or individual for a more effective solution.",
+      "3": "I believe this matter is best addressed by the relevant team or individual with expertise in this area."
+    }
+  },
+  {
+    "keyword": "don't care",
+    "translations": {
+      "1": "I'm open to feedback and value different opinions.",
+      "2": "I appreciate diverse viewpoints and welcome input from others.",
+      "3": "I welcome feedback and value different perspectives and insights in this matter."
+    }
+  },
+  {
+    "keyword": "sucks",
+    "translations": {
+      "1": "We should work together to find solutions and improve this situation.",
+      "2": "Let's collaborate to enhance this challenging situation.",
+      "3": "I acknowledge the difficulties we're facing, and I'm committed to finding solutions to make it better."
+    }
+  },
+  {
+    "keyword": "got a sec?",
+    "translations": {
+      "1": "May I have a moment to discuss something important?",
+      "2": "Could we chat about an important matter, or can I get your thoughts on a specific issue?",
+      "3": "I'd like to discuss an important issue with you. Do you have a moment for a conversation?"
+    }
+  },
+  {
+    "keyword": "unbelievable",
+    "translations": {
+      "1": "This is truly remarkable and inspiring.",
+      "2": "Your achievements are truly remarkable and serve as a testament to your exceptional skills and unwavering commitment to excellence.",
+      "3": "I'm genuinely impressed by this; it's a clear reflection of your remarkable skills and your commitment to achieving the highest standards of excellence."
+    }
+  },
+  {
+    "keyword": "sorry, I can't do that",
+    "translations": {
+      "1": "I'm unable to assist due to constraints and limitations on my end.",
+      "2": "Regrettably, I can't fulfill that request due to various restrictions and limitations on my side.",
+      "3": "I'm sorry, but I can't accommodate that request because of various constraints and limitations on my part."
+    }
+  },
+  {
+    "keyword": "no problem",
+    "translations": {
+      "1": "Glad I could help.",
+      "2": "I'm pleased I could assist, and I'm delighted that you're satisfied with the outcome.",
+      "3": "I'm glad I could help, and I appreciate your positive response to the solution."
+    }
+  },
+  {
+    "keyword": "my bad",
+    "translations": {
+      "1": "My apologies for the oversight.",
+      "2": "I apologize for the oversight and any inconvenience it may have caused.",
+      "3": "I take full responsibility for the oversight, and I apologize for any inconvenience it may have resulted in."
+    }
+  },
+  {
+    "keyword": "I can't make it",
+    "translations": {
+      "1": "Unfortunately, I won't be able to make it.",
+      "2": "Regrettably, I won't be able to attend the scheduled event or appointment due to unforeseen circumstances.",
+      "3": "I'm sorry, but I won't be able to attend the scheduled event or appointment due to unforeseen circumstances."
+    }
+  },
+  {
+    "keyword": "that's so stupid",
+    "translations": {
+      "1": "I have a different perspective on this matter.",
+      "2": "I see this differently and would like to present an alternative viewpoint on this issue.",
+      "3": "I have an alternative perspective on this, and I'd like to share a different point of view."
+    }
+  },
+  {
+    "keyword": "no worries",
+    "translations": {
+      "1": "Don't worry, everything is perfectly fine.",
+      "2": "You don't need to worry; everything is perfectly okay, and there's no cause for concern.",
+      "3": "Please don't worry; everything is absolutely fine, and there's no need for concern."
+    }
+  },
+  {
+    "keyword": "I don't know",
+    "translations": {
+      "1": "I'm unsure of the answer at this time.",
+      "2": "I don't have the answer right now, but I'll gather the required information to offer a more informed reply.",
+      "3": "I currently lack the information needed to provide a definitive response, but I'll work on obtaining it for a more informed answer."
+    }
+  },
+  {
+    "keyword": "let's chat later",
+    "translations": {
+      "1": "I look forward to discussing this at a more convenient time.",
+      "2": "I'm eager to talk about this later when we can dedicate more time and attention to the subject.",
+      "3": "I anticipate our discussion at a later time when we can focus more on the matter."
+    }
+  },
+  {
+    "keyword": "give me a hand",
+    "translations": {
+      "1": "Can you kindly assist me with this task? I would greatly appreciate your help.",
+      "2": "Would you be willing to lend a hand with this task? Your assistance and support would be highly valued.",
+      "3": "I could use some help with this task. Your support and assistance would be greatly appreciated."
+    }
+  },
+  {
+    "keyword": "take care",
+    "translations": {
+      "1": "I wish you the best and hope that you stay safe and well in all your endeavors.",
+      "2": "May you experience the best in life, and I hope you remain safe and well in all your pursuits.",
+      "3": "I hope you have a wonderful journey, and I wish for your safety and well-being in all your endeavors."
+    }
+  },
+  {
+    "keyword": "totally agree",
+    "translations": {
+      "1": "I completely concur with your viewpoint, and I believe that we share a common perspective on this issue.",
+      "2": "I wholeheartedly agree with your standpoint, and I think we have a shared perspective on this matter.",
+      "3": "I'm in full agreement with your point of view, and I believe we have a common perspective on this issue."
+    }
+  }
+]

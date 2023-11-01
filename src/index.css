@@ -1,13 +1,72 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+/* ===== Scrollbar CSS ===== */
+/* Firefox */
+* {
+  scrollbar-width: auto;
+  scrollbar-color: #0078d4 #ffffff;
+}
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 12px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #ffffff;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #0078d4;
+  border-radius: 10px;
+  border: 2px solid #ffffff;
+}
+
+.logoWrapper {
+  box-sizing: border-box;
+  position: relative;
+}
+.logoWrapper .eye {
+  position: absolute;
+  overflow: hidden;
+  content: "";
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  border-radius: 50%;
+  top: 25%;
+  left: 40%;
+  transition: 0.3s all ease-in-out;
+}
+.logoWrapper .eye::after {
+  position: absolute;
+  content: "";
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: black;
+  top: 40%;
+  left: 20%;
+  transition: 0.5s all ease, left 1s ease-in-out;
+}
+
+.logoWrapper .eye.closed {
+  height: 2px;
+  top: 30%;
+  background-color: black;
+}
+.logoWrapper .eye.closed::after {
+  left: 50%;
+  top: 20%;
 }
