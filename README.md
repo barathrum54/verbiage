@@ -27,6 +27,10 @@ In a world where effective and clear communication is crucial, Verbiage can help
 
 - **Enhanced Communication**: Whether you're communicating with clients, colleagues, or superiors, Verbiage can help you articulate your thoughts in a clear, formal manner.
 
+## Demo
+
+Check out the live demo of Verbiage [here](https://verbiage-six.vercel.app/).
+
 ## Getting Started
 
 Follow these steps to get started with Verbiage:
